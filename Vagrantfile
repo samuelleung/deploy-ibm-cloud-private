@@ -5,7 +5,7 @@
 
 # Software License Terms Acceptence (see https://hub.docker.com/r/ibmcom/icp-inception/)
 # If you accept the Software license terms please change the value below to 'accept'
-license = "not accepted"
+license = "accepted"
 
 # most laptops have at least 8 cores nowadays (adjust based on your laptop hardware)
 cpus = '4'
@@ -16,7 +16,7 @@ cpus = '4'
 
 # use this setting for better performance if you have the ram available on your laptop
 # uncomment the below line and comment out the above line "#memory = '4096'"
-memory = '8192'
+memory = '6000'
 
 # Update version to pull a specific version i.e. version = '2.1.0-beta-1'
 version = "2.1.0-beta-3"
